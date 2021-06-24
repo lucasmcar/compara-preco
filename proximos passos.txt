@@ -1,0 +1,14 @@
+1. fazer comparacao de precos;
+2. ajustar tela de precos de produtos
+3. fazer seleção de mercados para comparacao de preco;
+4. ajustar url amigável;
+5. criação de rotas
+6. Edição, cadastro e exclusão de dados;
+7. Criação do sistema para o item 6;
+8. melhorar responsividade do sistema;
+
+Requisitos
+
+
+O usuário/cliente do mercado só poderá consultar preços;
+O usuário/mercado poderá fazer todas as alterações e insersões de sistemas a partir do sistema para o mercado;
